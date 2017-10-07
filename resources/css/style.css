@@ -2,17 +2,15 @@
   text-align: center;
   font-family: Helvetica;
 }
-body {
-    background-image: url(../flatiron.png);
-    background-repeat: no-repeat;
-  }
+
 header h1{
   color: white;
   font-size: 70px;
   font-weight:bold;
+  
 }
 header{
-  background-image: url(../flatiron.png);
+  background-image: url(resources/flatiron.png);
 
 }
 h2{
