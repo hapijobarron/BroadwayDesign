@@ -10,12 +10,16 @@ header h1{
   padding-top: 10px;
 }
 
+
 header{
   color: white;
   background-image: url(resources/flatiron.png);
-
-
 }
+p{
+  font-size: 14px;
+  font-weight: normal;
+}
+
 h2{
   font-size: 32px;
   font-weight: bold;
@@ -25,6 +29,21 @@ h3{
     font-size: 23px;
     font-weight: bold;
   }
+
 div id p{
   font-size: 14px;
+}
+
+footer p{
+  color: white;
+  text-align:left;
+  padding-top: 5px;
+  font-size: 11px;
+}
+footer{
+  Background-color; dimgray;
+}
+a{
+  color: white;
+  font-size: 18px;
 }
